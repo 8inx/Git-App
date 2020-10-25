@@ -6,7 +6,11 @@
 
 h1 {
     columns: "#00ffff";
+<<<<<<< HEAD
     margin: 20px;
+=======
+    padding: 20px;
+>>>>>>> fooC
 }
 
 p {
