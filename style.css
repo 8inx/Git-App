@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+h1 {
+    columns: "#00ffff";
+}
+
 p {
     color: "#ff0000";
 }
